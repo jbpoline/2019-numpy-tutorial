@@ -1,1 +1,2 @@
-The MSRI one-day seminar
+Numpy tutorial: from several sources 
+including J.R. Johansson, Stefan Van der Walt, Scipy lectures, etc ...
